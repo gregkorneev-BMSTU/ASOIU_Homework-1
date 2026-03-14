@@ -1,0 +1,14 @@
+\\Mac\Home\Yandex.Disk.localized\Файлы\code\ASOIU\homework-1\Homework\bin\Debug\net10.0\Homework.exe
+\\Mac\Home\Yandex.Disk.localized\Файлы\code\ASOIU\homework-1\Homework\bin\Debug\net10.0\Homework.deps.json
+\\Mac\Home\Yandex.Disk.localized\Файлы\code\ASOIU\homework-1\Homework\bin\Debug\net10.0\Homework.runtimeconfig.json
+\\Mac\Home\Yandex.Disk.localized\Файлы\code\ASOIU\homework-1\Homework\bin\Debug\net10.0\Homework.dll
+\\Mac\Home\Yandex.Disk.localized\Файлы\code\ASOIU\homework-1\Homework\bin\Debug\net10.0\Homework.pdb
+\\Mac\Home\Yandex.Disk.localized\Файлы\code\ASOIU\homework-1\Homework\obj\Debug\net10.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Yandex.Disk.localized\Файлы\code\ASOIU\homework-1\Homework\obj\Debug\net10.0\Homework.AssemblyInfoInputs.cache
+\\Mac\Home\Yandex.Disk.localized\Файлы\code\ASOIU\homework-1\Homework\obj\Debug\net10.0\Homework.AssemblyInfo.cs
+\\Mac\Home\Yandex.Disk.localized\Файлы\code\ASOIU\homework-1\Homework\obj\Debug\net10.0\Homework.csproj.CoreCompileInputs.cache
+\\Mac\Home\Yandex.Disk.localized\Файлы\code\ASOIU\homework-1\Homework\obj\Debug\net10.0\Homework.dll
+\\Mac\Home\Yandex.Disk.localized\Файлы\code\ASOIU\homework-1\Homework\obj\Debug\net10.0\refint\Homework.dll
+\\Mac\Home\Yandex.Disk.localized\Файлы\code\ASOIU\homework-1\Homework\obj\Debug\net10.0\Homework.pdb
+\\Mac\Home\Yandex.Disk.localized\Файлы\code\ASOIU\homework-1\Homework\obj\Debug\net10.0\Homework.genruntimeconfig.cache
+\\Mac\Home\Yandex.Disk.localized\Файлы\code\ASOIU\homework-1\Homework\obj\Debug\net10.0\ref\Homework.dll
